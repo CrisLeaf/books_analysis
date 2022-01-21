@@ -291,3 +291,5 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,python,jupyternotebooks,data
 .idea/books_analysis.iml
+
+psql_secrets.py
