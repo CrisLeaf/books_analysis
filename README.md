@@ -1,4 +1,4 @@
-# Books Price Analysis
+# Books Price Analysis (With PostgreSQL)
 
 
 Stock price analysis of books from various websites. 
